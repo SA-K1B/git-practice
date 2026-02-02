@@ -3,6 +3,7 @@ function sayMyName(name) {
     console.log("My name is " + name);
 }
  function sayMyAge(age) {
+    const age = "35";
     console.log("My age is " + age);
  }
 
