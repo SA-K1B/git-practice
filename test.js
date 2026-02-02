@@ -13,7 +13,10 @@ function loginUser(username, password) {
 }
 loginUser("David", "123456");
 
-
+function settings() {
+    console.log("Welcome to the settings, " + user);
+}
+settings();
 
 sayMyName("David");
 sayMyAge(25);
