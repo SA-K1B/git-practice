@@ -7,6 +7,7 @@ function sayMyName(name) {
     console.log("My age is " + age);
  }
 function loginUser(username, password) {
+    const username = "Ricky";
     console.log("User " + username + " logged in");
 }
 loginUser("David", "123456");
