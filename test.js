@@ -8,6 +8,7 @@ function sayMyName(name) {
  }
 function loginUser(username, password) {
     const username = "Ricky";
+    const password = "999";
     console.log("User " + username + " logged in");
 }
 loginUser("David", "123456");
