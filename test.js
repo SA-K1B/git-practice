@@ -19,5 +19,12 @@ function settings() {
 }
 settings();
 
+function dashboard(user) {
+    const user = "Miller";
+    console.log("Welcome to the dashboard, " + user);
+}
+dashboard("David");
+
+
 sayMyName("David");
 sayMyAge(25);
