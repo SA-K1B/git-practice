@@ -1,5 +1,6 @@
 function sayMyName(name) {
+    const name = "Miller";
     console.log("My name is " + name);
 }
 
-sayMyName("John");
+sayMyName("David");
