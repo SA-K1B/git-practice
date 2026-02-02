@@ -6,6 +6,7 @@ function sayMyName(name) {
     const age = "35";
     console.log("My age is " + age);
  }
+
 function loginUser(username, password) {
     const username = "Ricky";
     const password = "999";
@@ -24,7 +25,6 @@ function dashboard(user) {
     console.log("Welcome to the dashboard, " + user);
 }
 dashboard("David");
-
 
 sayMyName("David");
 sayMyAge(25);
